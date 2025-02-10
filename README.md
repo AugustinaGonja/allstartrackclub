@@ -3,7 +3,7 @@ AllStar Track & Field is designed for individuals of all ages seeking coaching i
 Furthermore,the website design ensures a user-friendly and accessible experience for all potential visitors.
 
 [View AllStar Track & Field Website on GitHub Pages]()
-
+---
 ## User Experience (UX)
 ### Project Expectations
 ### User Stories
@@ -52,3 +52,23 @@ Tasks :
 * Use Bootstrap for the clear layout of the events page.
 * Links to social media embedded in fixed footer. 
 * Create a mailing list taking email as input - "Sign up for News and Updates".
+
+## Design
+
+### Colour Scheme 
+A palette of natural hues, with **shades of blue.**  
+To evoke an all-star quality, subtle **yellows, oranges, and whites** are incorporated.
+This will embody the themes of **speed, power, and talent**, symbolizing natural ability.
+
+
+### Typography
+All fonts on this website are imported from "Google Fonts". To enhance its sporty,sleek and impactful design, the primary font is **"Bebas Neue".** As a fallback, **Montserrat** is used to maintain a modern, clean aesthetic while ensuring readability. If neither font loads, a generic **sans-serif** will be applied.  
+
+CSS Code --> font-family: "Bebas Neue" ,Montserrat, sans-serif;
+### Imagery
+The site's imagery will feature track athletes running, jumping, and throwing, highlighting individuals of various ages and abilites.
+
+### Wireframes
+Wireframes below created using "Balsamiq".
+Each page has its own wireframe as displayed on different screen sizes.
+## Features 
