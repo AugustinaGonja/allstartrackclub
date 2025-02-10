@@ -58,15 +58,16 @@ Tasks :
 ### Colour Scheme 
 A palette of natural hues, with **shades of blue.**  
 To evoke an all-star quality, subtle **yellows, oranges, and whites** are incorporated.
+![Image showing Project Color Pallette](CSS/images/Colour%20Pallette.png)
 This will embody the themes of **speed, power, and talent**, symbolizing natural ability.
-
-
 ### Typography
-All fonts on this website are imported from "Google Fonts". To enhance its sporty,sleek and impactful design, the primary font is **"Bebas Neue".** As a fallback, **Montserrat** is used to maintain a modern, clean aesthetic while ensuring readability. If neither font loads, a generic **sans-serif** will be applied.  
-
-CSS Code --> font-family: "Bebas Neue" ,Montserrat, sans-serif;
+All fonts on this website are imported from "Google Fonts". To enhance its sporty,sleek and impactful design, the primary font is **"Oswald".** which offers a range of font weights. As a fallback, **Montserrat** is used to maintain a modern, clean aesthetic while ensuring readability. If neither font loads, a generic **sans-serif** will be applied. 
+ ![Image showing Project Typography](CSS/images/Oswald%20Typography.png)
+CSS Code --> font-family: "Oswald" ,Montserrat, sans-serif;
 ### Imagery
 The site's imagery will feature track athletes running, jumping, and throwing, highlighting individuals of various ages and abilites.
+
+*All images will be linked to their original source in the credits section.*
 
 ### Wireframes
 Wireframes below created using "Balsamiq".
