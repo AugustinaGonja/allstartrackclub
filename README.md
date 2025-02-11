@@ -3,6 +3,7 @@ AllStar Track & Field is designed for individuals of all ages seeking coaching i
 Furthermore,the website design ensures a user-friendly and accessible experience for all potential visitors.
 
 [View AllStar Track & Field Website on GitHub Pages]()
+
 ---
 ## User Experience (UX)
 ### Project Expectations
@@ -72,4 +73,5 @@ The site's imagery will feature track athletes running, jumping, and throwing, h
 ### Wireframes
 Wireframes below created using "Balsamiq".
 Each page has its own wireframe as displayed on different screen sizes.
+
 ## Features 
